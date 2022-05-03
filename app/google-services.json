@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866186639020",
+    "project_id": "cash-or-spash",
+    "storage_bucket": "cash-or-spash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866186639020:android:dc371a9dc253039ec85109",
+        "android_client_info": {
+          "package_name": "ass.cashorsplash.huawei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866186639020-ic3a6085mkhvvtoa7fe1c2sociphjl1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Grc7JWDOYHso3H6u3euxtKAW4TGFiTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866186639020-ic3a6085mkhvvtoa7fe1c2sociphjl1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
